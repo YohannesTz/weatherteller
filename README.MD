@@ -5,4 +5,20 @@ javascript.
 
 # Features
 
-show weather data for main Ethiopian cities
+show weather data for Ethiopian cities like: 
+- Addis Ababa
+- Gondar
+- Mekelle
+- Adama
+- Awassa
+- Bahirdar
+- DireDawa
+- Jimma
+- Jijiga
+- Sodo
+- Gambella
+- Jinka
+
+# Note
+
+you need to provide your bot token and [OpenWeatherMap](https://openweathermap.org) api key.
