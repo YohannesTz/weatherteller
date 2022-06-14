@@ -46,6 +46,7 @@ bot.command('weather_addis', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -58,6 +59,7 @@ bot.command('weather_gondar', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -71,6 +73,7 @@ bot.command('weather_mekelle', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -83,6 +86,7 @@ bot.command('weather_adama', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -96,6 +100,7 @@ bot.command('weather_awassa', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -109,6 +114,7 @@ bot.command('weather_bahirdar', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -122,6 +128,7 @@ bot.command('weather_diredawa', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -135,6 +142,7 @@ bot.command('weather_jimma', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -148,6 +156,7 @@ bot.command('weather_jijiga', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -161,6 +170,7 @@ bot.command('weather_sodo', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -173,6 +183,7 @@ bot.command('weather_gambella', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 });
 
@@ -185,6 +196,7 @@ bot.command('weather_jinka', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 
 });
@@ -198,6 +210,7 @@ bot.command('weather_custom', async (ctx) => {
         ctx.reply(message);
     } catch (error) {
         console.log(error);
+        ctx.reply(error);
     }
 
 });
